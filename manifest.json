@@ -1,11 +1,11 @@
 {
-    "name": "sfbu_chatbot",
-    "short_name": "sfbu_chatbot",
+    "name": "busstop_tracker",
+    "short_name": "busstop_tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A SFBU Chatbot",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
